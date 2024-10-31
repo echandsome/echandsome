@@ -22,6 +22,7 @@ Damien D
 <!-- [![](https://visitcount.itsvg.in/api?id=mortuzakarzon&icon=1&color=1)](https://visitcount.itsvg.in) -->
 
 # 💫 About Me:
+😄 I am handsome and cool.
 <!--
 <br>- 😄 Pronouns: He/His<br>- 🔭 I’m currently working on DocMent<br>- 🌱 I’m currently palying with vue.js.<br>- 👯 I’m looking to collaborate on Youtube.<br>- 🤔 I’m looking for help with Documentation.<br>- 💬 Ask me about "MERN STACK" or any other tech related stuffs.<br>- 📫 How to reach me: Twitter -@karzonku<br>- ⚡ Fun fact: Bonsai Lover!
 -->
