@@ -1,5 +1,6 @@
 # Hello,👋 I'm Handsome!
 
+<!--
 my mail: echandsome@hotmail.com.
 my skype: live:.cid.5560ef4130352469
 
@@ -17,7 +18,7 @@ I will wait your replay via mail or skype.
 
 Thank you.
 Knox A
-
+-->
 <!-- [![](https://visitcount.itsvg.in/api?id=mortuzakarzon&icon=1&color=1)](https://visitcount.itsvg.in) -->
 
 # 💫 About Me:
