@@ -10,11 +10,11 @@ Hi, Lizi G
 I have a payment problem.
 So I want to get paid to my friend's freelance account.
 Is that possible?
--->
+
 freelancer is checking the our chatting log.
 so, I'd like to contact with you via skype or mail.
-
-I look forward to your continued cooperation.
+<!--
+I look forward to your continued cooperation.-->
 I will wait your replay via mail or skype.
 
 Thank you.
