@@ -22,7 +22,10 @@ Damien D
 <!-- [![](https://visitcount.itsvg.in/api?id=mortuzakarzon&icon=1&color=1)](https://visitcount.itsvg.in) -->
 
 # 💫 About Me:
+<!--
 <br>- 😄 Pronouns: He/His<br>- 🔭 I’m currently working on DocMent<br>- 🌱 I’m currently palying with vue.js.<br>- 👯 I’m looking to collaborate on Youtube.<br>- 🤔 I’m looking for help with Documentation.<br>- 💬 Ask me about "MERN STACK" or any other tech related stuffs.<br>- 📫 How to reach me: Twitter -@karzonku<br>- ⚡ Fun fact: Bonsai Lover!
+-->
+
 <!-- 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mortuza-karzon) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@mortuzakarzon) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Mortuza-Karzon) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/8055165)  -->
