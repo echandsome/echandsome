@@ -1,6 +1,24 @@
 # Hello,👋 I'm Handsome!
 
-[![](https://visitcount.itsvg.in/api?id=mortuzakarzon&icon=1&color=1)](https://visitcount.itsvg.in)
+my mail: echandsome@hotmail.com.
+my skype: live:.cid.5560ef4130352469
+
+Hi, Saquib A
+
+I have a payment problem.
+So I want to get paid to my friend's freelance account.
+Is that possible?
+
+freelancer is checking the our chatting log.
+so, I'd like to contact with you via skype or mail.
+
+I look forward to your continued cooperation.
+I will wait your replay via mail or skype.
+
+Thank you.
+Knox A
+
+<!-- [![](https://visitcount.itsvg.in/api?id=mortuzakarzon&icon=1&color=1)](https://visitcount.itsvg.in) -->
 
 # 💫 About Me:
 <br>- 😄 Pronouns: He/His<br>- 🔭 I’m currently working on DocMent<br>- 🌱 I’m currently palying with vue.js.<br>- 👯 I’m looking to collaborate on Youtube.<br>- 🤔 I’m looking for help with Documentation.<br>- 💬 Ask me about "MERN STACK" or any other tech related stuffs.<br>- 📫 How to reach me: Twitter -@karzonku<br>- ⚡ Fun fact: Bonsai Lover!
