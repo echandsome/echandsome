@@ -3,22 +3,22 @@
 
 my mail: echandsome@hotmail.com.
 my skype: live:.cid.5560ef4130352469
-
-Hi, Abdun Nur T
 <!-- 
+Hi, Abdun Nur T
+
 I have a payment problem.
 So I want to get paid to my friend's freelance account.
-Is that possible? -->
+Is that possible?
 
 freelancer is checking the our chatting log.
 so, I'd like to contact with you via skype or mail.
-<!-- 
-I look forward to your continued cooperation. -->
+
+I look forward to your continued cooperation. 
 I will wait your reply via mail or skype.
 
 Thank you.
 Christian H
-
+ -->
 <!-- [![](https://visitcount.itsvg.in/api?id=mortuzakarzon&icon=1&color=1)](https://visitcount.itsvg.in) -->
 
 # 💫 About Me:
