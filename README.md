@@ -1,6 +1,6 @@
 # Hello,👋 I'm Handsome!
 
-
+<!-- 
 my mail: echandsome@hotmail.com.
 my skype: live:.cid.5560ef4130352469
 
@@ -17,7 +17,7 @@ I look forward to your continued cooperation.
 I will wait your reply via mail or skype.
 
 Thank you.
-
+ -->
 <!-- [![](https://visitcount.itsvg.in/api?id=mortuzakarzon&icon=1&color=1)](https://visitcount.itsvg.in) -->
 
 # 💫 About Me:
