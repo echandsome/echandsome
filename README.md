@@ -4,7 +4,7 @@
 my mail: echandsome@hotmail.com.
 my skype: live:.cid.5560ef4130352469
 
-Hi, James U
+Hi, 
 <!-- 
 I have a payment problem.
 So I want to get paid to my friend's freelance account.
