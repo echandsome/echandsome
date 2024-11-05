@@ -97,9 +97,9 @@ Thank you.
 
 <div align="center" >
   <p>
-    <a href="https://github.com/echandsome/whatsapp-react-native"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=echandsome&repo=custom-website-builder&theme=react&bg_color=1F222E&title_color=4E96FFFF&hide_border=true&icon_color=4e96ff&show_icons=false" alt="github-readme-streak-stats"></a>
-    <a href="https://github.com/echandsome/flutter-ecommerce-ui"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=echandsome&repo=video-generator-ai&theme=react&bg_color=1F222E&title_color=4E96FFFF&hide_border=true&icon_color=4e96ff&show_icons=false" alt="github-readme-streak-stats"></a>
-    <a href="https://github.com/echandsome/code-editor-online-"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=echandsome&repo=online-code-editor&theme=react&bg_color=1F222E&title_color=4E96FFFF&hide_border=true&icon_color=4e96ff&show_icons=false" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/echandsome/whatsapp-react-native"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=echandsome&repo=whatsapp-react-native&theme=react&bg_color=1F222E&title_color=4E96FFFF&hide_border=true&icon_color=4e96ff&show_icons=false" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/echandsome/flutter-ecommerce-ui"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=echandsome&repo=flutter-ecommerce-ui&theme=flutter&bg_color=1F222E&title_color=4E96FFFF&hide_border=true&icon_color=4e96ff&show_icons=false" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/echandsome/code-editor-online-"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=echandsome&repo=code-editor-online-&theme=react&bg_color=1F222E&title_color=4E96FFFF&hide_border=true&icon_color=4e96ff&show_icons=false" alt="github-readme-streak-stats"></a>
     
   </p>
 
@@ -115,7 +115,7 @@ Thank you.
 
   <!-- Small repo cards https://github.com/DenverCoder1/github-readme-stats (fork of anuraghazra/github-readme-stats) -->
   <p>
-    <a href="https://github.com/echandsome/e-commerce-site"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=echandsome&repo=learning-resources&theme=react&bg_color=1F222E&title_color=4E96FFFF&hide_border=true&icon_color=4e96ff&show_icons=false&show_description=false" alt="flask"></a>
+    <a href="https://github.com/echandsome/e-commerce-site"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=echandsome&repo=e-commerce-site&theme=react&bg_color=1F222E&title_color=4E96FFFF&hide_border=true&icon_color=4e96ff&show_icons=false&show_description=false" alt="flask"></a>
   </p>
 </div>
 <br>
