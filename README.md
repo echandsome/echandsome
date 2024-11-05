@@ -4,7 +4,7 @@
 
 </h1>
   
-<div size='1px'> My name is Hand some. Thank You for taking the time to view my GitHub Profile. :smile:</div>
+<div size='1px'> My alias is Hand some. Thank You for taking the time to view my GitHub Profile. :smile:</div>
 
 <br>
 
