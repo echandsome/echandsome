@@ -7,10 +7,8 @@
 <div size='1px'> My name is Hand some. Thank You for taking the time to view my GitHub Profile. :smile:</div>
 
 
-<div style='margin: 40px 0'>
   my mail: echandsome@hotmail.com.
   my skype: live:.cid.5560ef4130352469
-</div>
 
 I'd like to contact with you via skype or mail.
 
