@@ -8,10 +8,12 @@
 
 <br>
 
+This is my portfolio link: http://handsome-portfolio.vercel.app
 
+<br>
 
-
-skype: live:.cid.46fa0b4ec4fdf3c9
+mail: echandsome@hotmail.com.
+skype: live:.cid.5560ef4130352469
 
 I'd like to contact with you via skype or mail.
 
