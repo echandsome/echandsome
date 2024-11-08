@@ -7,12 +7,11 @@
 <div size='1px'> My alias is Hand some. Thank You for taking the time to view my GitHub Profile. :smile:</div>
 
 <br>
-
+<!--
 This is my portfolio link: http://handsome-portfolio.vercel.app
-
+-->
 <br>
 
-mail: echandsome@hotmail.com.
 skype: live:.cid.46fa0b4ec4fdf3c9
 
 I'd like to contact with you via skype or mail.
