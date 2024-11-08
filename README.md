@@ -11,9 +11,11 @@
 This is my portfolio link: http://handsome-portfolio.vercel.app
 
 <br>
-mail: echandsome@hotmail.com
+
+mail: echandsome@hotmail.com  
 skype: live:.cid.5560ef4130352469
 
+<br>
 I'd like to contact with you via skype or mail.
 
 I look forward to your continued cooperation. 
