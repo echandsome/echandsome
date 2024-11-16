@@ -4,7 +4,7 @@
 
 </h1>
   
-<div size='1px'> My name is Redzepovic Denis. Thank You for taking the time to view my GitHub Profile. :smile:</div>
+<div size='1px'> My name is Denis Redzepovic. Thank You for taking the time to view my GitHub Profile. :smile:</div>
 
 <br>
 
