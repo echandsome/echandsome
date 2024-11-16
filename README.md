@@ -8,7 +8,6 @@
 
 <br>
 
-This is my portfolio link: http://handsome-portfolio.vercel.app
 
 <br>
 
