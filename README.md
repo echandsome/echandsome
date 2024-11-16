@@ -8,7 +8,7 @@
 
 <br>
 
-This is my portfolio link: [https://redzepovic-portfolio.vercel.app](https://denis--portfolio.vercel.app)
+This is my portfolio link: https://denis--portfolio.vercel.app
 
 <br>
 
