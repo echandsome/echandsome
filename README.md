@@ -10,9 +10,10 @@
 
 
 <br>
+
 <!-- 
 mail: echandsome@hotmail.com  skype: live:.cid.5560ef4130352469
--- >
+
 <br>
 I'd like to contact with you via skype or mail.
 
@@ -21,7 +22,7 @@ I will wait your reply via mail or skype.
 
 Thank you.
 
-
+-->
   
 <h2> About Me </h2>
 
