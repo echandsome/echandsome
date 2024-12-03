@@ -1,3 +1,45 @@
+# 👋 Hi, I'm Denis Redzepovic!
+
+## 🚀 About Me
+I'm a full-stack developer with 5+ years of experience in building web and mobile applications. I specialize in creating user-friendly, secure, and scalable solutions using modern technologies.
+
+## 🔧 Technologies & Tools
+- Frontend: React, Vue, React Native
+- Backend: Node.js, Laravel
+- Mobile: Android Development
+- Tools: Git, Docker, AWS, Firebase
+
+## 🌟 Featured Projects
+- [Dev Technosys](https://devtechnosys.com/): End-to-end web development for a SaaS platform.
+- [Hitask](https://hitask.com/): A task management app with seamless UX.
+- [Lookprior](https://lookprior.com/home): Dynamic photo-sharing application.
+
+## 📈 Stats
+![Denis's GitHub stats](https://github-readme-stats.vercel.app/api?username=denis-redzepovic&show_icons=true&theme=radical)
+
+## 🌱 What I'm Learning
+Currently diving deeper into **TypeScript** and **Cloud Computing** to expand my expertise in scalable solutions.
+
+## 📫 How to Reach Me
+- Portfolio: [denis--portfolio.vercel.app](https://denis--portfolio.vercel.app)
+- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourname)
+- Email: denis@example.com
+
+---
+
+🎯 Feel free to explore my repositories and connect for collaborations or opportunities!
+
+
+
+
+
+
+
+
+
+
+
+
 <h1> Hello ! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>
 
 <img width="15%" align="right" alt="Github" src="https://github.com/avinIndrasoma/avinIndrasoma/blob/main/749044136589393960.gif" />
