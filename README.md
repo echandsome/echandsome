@@ -1,7 +1,7 @@
 <h1> Hello ! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>
 
 <img width="15%" align="right" alt="Github" src="https://github.com/avinIndrasoma/avinIndrasoma/blob/main/749044136589393960.gif" />
-skype: live:.cid.8213901161a06906
+
 </h1>
   
 <div size='1px'> My name is Denis Redzepovic. Thank You for taking the time to view my GitHub Profile. :smile:</div>
