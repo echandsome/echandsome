@@ -34,7 +34,7 @@ Thank you.
 - 🔭 I’m currently working on a [lot of projects](https://github.com/echandsome?tab=repositories) !!
 - 👯 I’m looking to collaborate with other content creators
 - 🌱 I’m currently learning Web3 & Metaverse technologies 🤣
-- 🥅 2024 Goals: Become a Cloud Architect and Web3 Developer
+- 🥅 2025 Goals: Become a Cloud Architect and Web3 Developer
 - ⚡ Fun fact: I love to code and play games and I'm also a funny person 🤣🤣
 
 <h2> Visitor count  </h2>
