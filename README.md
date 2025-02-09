@@ -116,7 +116,7 @@ Thank you.
 
   <!-- Small repo cards https://github.com/DenverCoder1/github-readme-stats (fork of anuraghazra/github-readme-stats) -->
   <p>
-    <a href="https://github.com/echandsome/e-commerce-site"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=echandsome&repo=e-commerce-site&theme=react&bg_color=1F222E&title_color=4E96FFFF&hide_border=true&icon_color=4e96ff&show_icons=false&show_description=false" alt="flask"></a>
+    <a href="https://github.com/echandsome/Nextjs-e-commerce"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=echandsome&repo=Nextjs-e-commerce&theme=react&bg_color=1F222E&title_color=4E96FFFF&hide_border=true&icon_color=4e96ff&show_icons=false&show_description=false" alt="flask"></a>
   </p>
 </div>
 <br>
