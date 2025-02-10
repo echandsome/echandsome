@@ -33,7 +33,6 @@ Thank you.
 - 😎 One Developer Army 💪💪
 - 🔭 I’m currently working on a [lot of projects](https://github.com/echandsome?tab=repositories) !!
 - 👯 I’m looking to collaborate with other content creators
-- 🌱 I’m currently learning Web3 & Metaverse technologies 🤣
 - 🥅 2025 Goals: $100000
 - ⚡ Fun fact: I love to code and play games and I'm also a funny person 🤣🤣
 
