@@ -112,8 +112,9 @@ Thank you.
 <h2> Top Projects I've Contributed To   <img width ='18px' src ='https://media.giphy.com/media/QTmfvHGklosY1ha87W/giphy.gif'> </h2>
 
 <div align="center" >
-
+-->
   <!-- Small repo cards https://github.com/DenverCoder1/github-readme-stats (fork of anuraghazra/github-readme-stats) -->
+  <!--
   <p>
     <a href="https://github.com/echandsome/Nextjs-e-commerce"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=echandsome&repo=Nextjs-e-commerce&theme=react&bg_color=1F222E&title_color=4E96FFFF&hide_border=true&icon_color=4e96ff&show_icons=false&show_description=false" alt="flask"></a>
   </p>
