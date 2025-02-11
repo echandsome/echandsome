@@ -65,7 +65,7 @@ Thank you.
 
 <br>
 
-<!--
+
 <!-- <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px"> </h2> -->
 
 <!--- social media icons, you can find them in assets directory of this repo --->
@@ -89,7 +89,7 @@ Thank you.
 <a href="https://dev.to/echandsome">
     <img height="45" src="https://user-images.githubusercontent.com/60597290/173852494-7b3ce86a-497d-4998-810e-35180b7bdea2.png" />
 </a> -->
-
+<!--
 <br>
 
 
