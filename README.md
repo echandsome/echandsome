@@ -23,7 +23,7 @@ I am a **full-stack developer** with **5+ years of freelancing experience**, spe
 - ⚡ Fun fact: I love to code and play games and I'm also a funny person 🤣🤣
 
 
-
+💡 Want to see more? Check out my **[portfolio](https://denis--portfolio.vercel.app/)**. 
 
 ### 🛠️ Tech Stack  
 #### 💻 Web Development  
