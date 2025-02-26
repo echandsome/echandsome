@@ -1,33 +1,19 @@
-<h1> Hello ! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>
+<h1> Hi there, I'm Denis Redzepovic <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>
 
 <img width="15%" align="right" alt="Github" src="https://github.com/avinIndrasoma/avinIndrasoma/blob/main/749044136589393960.gif" />
 
 </h1>
-  
-<div size='1px'> My name is Denis Redzepovic. Thank You for taking the time to view my GitHub Profile. :smile:</div>
 
-<br>
+<p >
+🚀 Full-Stack Developer | Mobile Expert | Blockchain Enthusiast  
+</p>
 
-This is my portfolio link: https://denis--portfolio.vercel.app
 
-<br>
-
-<!-- 
-mail: echandsome@hotmail.com  skype: live:.cid.5560ef4130352469
-
-<br>
-I'd like to contact with you via skype or mail.
-
-I look forward to your continued cooperation. 
-I will wait your reply via mail or skype.
-
-Thank you.
-
--->
-  
-<h2> About Me </h2>
+### 👨‍💻 About Me  
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
+I am a **full-stack developer** with **5+ years of freelancing experience**, specializing in **web, mobile, and blockchain development**. My passion lies in building **high-performance applications**, from dynamic UIs to secure and scalable backend systems. I enjoy solving complex problems and bringing innovative ideas to life.
 
 - 😄 I am handsome and cool.
 - 😎 One Developer Army 💪💪
@@ -36,91 +22,38 @@ Thank you.
 - 🥅 2025 Goals: $100000
 - ⚡ Fun fact: I love to code and play games and I'm also a funny person 🤣🤣
 
+
+
+
+### 🛠️ Tech Stack  
+#### 💻 Web Development  
+- **Frontend:** React.js, Next.js, Vue.js, Nuxt.js, Svelte
+- **Backend:** Node.js, Express.js, Laravel, Python 
+- **Styling:** Tailwind CSS, SCSS  
+
+#### 📱 Mobile Development  
+- **React Native** (Expo & CLI)  
+- **Flutter** (Dart)  
+- **Android:** Java, Kotlin  
+
+#### 🔗 Blockchain & Web3  
+- **Smart Contracts:** Solidity, Hardhat, Truffle  
+- **Blockchain Platforms:** Ethereum, Polygon, Binance Smart Chain (BSC)  
+- **Web3 Integration:** ethers.js, web3.js  
+
+#### 🛠️ Tools & DevOps  
+- **Database:** NoSQL, MySQL, PostgreSQL, Firebase, Supabase
+- **Version Control:** Git, GitHub  
+- **Others:** AWS, Docker, Vercel, Netlify  
+
+
+
 <h2> Visitor count  </h2>
 
 <div align="left">  
   <img src="https://profile-counter.glitch.me/qasimparekh/count.svg" align="center"/> 
 </div>
 <br>
-
-
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 20px> </h2>
-<a href= https://github.com/echandsome > <img width ='35px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/go.svg'> </a>
-<a href= https://github.com/echandsome > <img width ='35px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'> </a>
-<a href= https://github.com/echandsome > <img width ='35px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linux.svg'> </a>
-<a href= https://github.com/echandsome > <img width ='35px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bash.svg'> </a>
-<a href= https://github.com/echandsome > <img width ='35px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/docker.svg'> </a>
-<a href= https://github.com/echandsome > <img width ='35px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/jenkins.svg'> </a>
-<a href= https://github.com/echandsome > <img width ='35px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/kafka.svg'> </a>
-<a href= https://github.com/echandsome > <img width ='35px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/kubernetes.svg'> </a>
-<a href= https://github.com/echandsome > <img width ='35px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/grafana.svg'> </a>
-<a href= https://github.com/echandsome > <img width ='35px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/aws.svg'> </a>
-<a href= https://github.com/echandsome > <img width ='35px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/azure.svg'> </a>
-<a href= https://github.com/echandsome > <img width ='35px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/gcp.svg'> </a>
-<a href= https://github.com/echandsome > <img width ='35px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/flutter.svg'> </a>
-<a href= https://github.com/echandsome > <img width ='35px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/arduino.svg'> </a>
-<a href= https://github.com/echandsome > <img width ='35px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'> </a>
-<a href= https://github.com/echandsome > <img width ='35px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg'> </a>
-<a href= https://github.com/echandsome > <img width ='35px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/firebase.svg'> </a>
-
-<br>
-
-
-<!-- <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px"> </h2> -->
-
-<!--- social media icons, you can find them in assets directory of this repo --->
-<!-- <a href="https://echandsome.com">
-    <img height="45" src="https://user-images.githubusercontent.com/60597290/173854214-c646c175-420c-40a6-b994-25acf90dcac4.png" />
-</a>  
-<a href="https://www.linkedin.com/in/echandsome/">
-  <img height="45" alt="echandsome | LinkedIn"  src="https://user-images.githubusercontent.com/60597290/173852531-4343e250-e3cb-4bdb-b84f-50695c64aa12.png"/>
-</a> 
-<a href="https://www.instagram.com/echandsome_">
-  <img height="45" alt="Rashid Wassan | Instagram"  src="https://user-images.githubusercontent.com/60597290/173852523-c34e15e4-dc3b-4c2a-a5a4-d460b96e4151.png" />
-</a>
-<a href="https://twitter.com/echandsome_">
-    <img height="45" src="https://user-images.githubusercontent.com/60597290/173852545-4b8a3257-69ac-42ad-895e-bb842fd60372.png" />
-</a> 
-<a href="https://stackoverflow.com/users/15750590/rashid-wassan">
-  <img height="45" alt="Rashid Wassan | StackOverFlow" src="https://user-images.githubusercontent.com/60597290/173852537-7dc3093c-1ecc-4106-b0b3-7aa572d0449d.png" />
-</a>
-<a href="https://www.youtube.com/c/echandsome">
-    <img height="45" src="https://user-images.githubusercontent.com/60597290/173852551-b848aea3-9d04-435a-9e1d-260f1c5d8942.png" />
-<a href="https://dev.to/echandsome">
-    <img height="45" src="https://user-images.githubusercontent.com/60597290/173852494-7b3ce86a-497d-4998-810e-35180b7bdea2.png" />
-</a> -->
-<!--
-<br>
-
-
-<h2> My Top Open Source Projects   <img width ='18px' src ='https://media.giphy.com/media/ES9cAJlcxblRESzOH1/giphy.gif'> </h2>
-
-<div align="center" >
-  <p>
-    <a href="https://github.com/echandsome/whatsapp-react-native"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=echandsome&repo=whatsapp-react-native&theme=react&bg_color=1F222E&title_color=4E96FFFF&hide_border=true&icon_color=4e96ff&show_icons=false" alt="github-readme-streak-stats"></a>
-    <a href="https://github.com/echandsome/flutter-ecommerce-ui"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=echandsome&repo=flutter-ecommerce-ui&theme=flutter&bg_color=1F222E&title_color=4E96FFFF&hide_border=true&icon_color=4e96ff&show_icons=false" alt="github-readme-streak-stats"></a>
-    <a href="https://github.com/echandsome/code-editor-online-"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=echandsome&repo=code-editor-online-&theme=react&bg_color=1F222E&title_color=4E96FFFF&hide_border=true&icon_color=4e96ff&show_icons=false" alt="github-readme-streak-stats"></a>
-    
-  </p>
-
-  <a href="https://github.com/echandsome?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
-
-</div>
-<br>
-
-
-<h2> Top Projects I've Contributed To   <img width ='18px' src ='https://media.giphy.com/media/QTmfvHGklosY1ha87W/giphy.gif'> </h2>
-
-<div align="center" >
--->
-  <!-- Small repo cards https://github.com/DenverCoder1/github-readme-stats (fork of anuraghazra/github-readme-stats) -->
-  <!--
-  <p>
-    <a href="https://github.com/echandsome/Nextjs-e-commerce"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=echandsome&repo=Nextjs-e-commerce&theme=react&bg_color=1F222E&title_color=4E96FFFF&hide_border=true&icon_color=4e96ff&show_icons=false&show_description=false" alt="flask"></a>
-  </p>
-</div>
-<br>
- -->
 
 <h2> Profile Stats  <img width ='18px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg'> </h2>
 
