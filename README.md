@@ -20,7 +20,7 @@ I am a **full-stack developer** with **5+ years of freelancing experience**, spe
 - 🔭 I’m currently working on a [lot of projects](https://github.com/echandsome?tab=repositories) !!
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2025 Goals: $100000
-- ⚡ Fun fact: I love to code and play games and I'm also a funny person 🤣🤣
+- ⚡ Fun fact: I like code and beautiful girl 🤣🤣
 
 
 💡 Want to see more? Check out my **[portfolio](https://denis--portfolio.vercel.app/)**. 
