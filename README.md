@@ -25,29 +25,6 @@ I am a **full-stack developer** with **5+ years of freelancing experience**, spe
 
 💡 Want to see more? Check out my **[portfolio](https://denis--portfolio.vercel.app/)**. 
 
-### 🛠️ Tech Stack  
-#### 💻 Web Development  
-- **Frontend:** React.js, Next.js, Vue.js, Nuxt.js, Svelte
-- **Backend:** Node.js, Express.js, Laravel, Python 
-- **Styling:** Tailwind CSS, SCSS  
-
-#### 📱 Mobile Development  
-- **React Native** (Expo & CLI)  
-- **Flutter** (Dart)  
-- **Android:** Java, Kotlin  
-
-#### 🔗 Blockchain & Web3  
-- **Smart Contracts:** Solidity, Hardhat, Truffle  
-- **Blockchain Platforms:** Ethereum, Polygon, Binance Smart Chain (BSC)  
-- **Web3 Integration:** ethers.js, web3.js  
-
-#### 🛠️ Tools & DevOps  
-- **Database:** NoSQL, MySQL, PostgreSQL, Firebase, Supabase
-- **Version Control:** Git, GitHub  
-- **Others:** AWS, Docker, Vercel, Netlify  
-
-
-
 <h2> Visitor count  </h2>
 
 <div align="left">  
