@@ -23,8 +23,6 @@ I am a **full-stack developer** with **5+ years of freelancing experience**, spe
 - ⚡ Fun fact: I like code and beautiful girl 🤣🤣
 
 
-💡 Want to see more? Check out my **[portfolio](https://denis--portfolio.vercel.app/)**. 
-
 <h2> Visitor count  </h2>
 
 <div align="left">  
