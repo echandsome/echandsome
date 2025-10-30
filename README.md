@@ -13,7 +13,7 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-I am a **full-stack developer** with **5+ years of freelancing experience**, specializing in **web, mobile, and blockchain development**. My passion lies in building **high-performance applications**, from dynamic UIs to secure and scalable backend systems. I enjoy solving complex problems and bringing innovative ideas to life.
+I am a **full-stack developer** with **5+ years of experience**, specializing in **web, mobile, and blockchain development**. My passion lies in building **high-performance applications**, from dynamic UIs to secure and scalable backend systems. I enjoy solving complex problems and bringing innovative ideas to life.
 
 - 😄 I am handsome and cool.
 - 😎 One Developer Army 💪💪
