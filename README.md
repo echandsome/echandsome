@@ -135,7 +135,7 @@ I am a **full-stack developer** with **5+ years of experience**, specializing in
 
 <div align="center" >
 
-[![trophy](https://github-profile-trophy-gamma-seven.vercel.app/?username=echandsome&theme=algolia&margin-w=4&row=1&column=9)](https://github.com/echandsome)
+[![trophy](https://github-profile-trophy-gamma-seven.vercel.app/?username=echandsome&theme=onedark&margin-w=4&row=1&column=9)](https://github.com/echandsome)
 </div>
 
 
