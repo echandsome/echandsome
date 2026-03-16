@@ -26,7 +26,7 @@ I am a **full-stack developer** with **5+ years of experience**, specializing in
 <h2> Visitor count  </h2>
 
 <div align="left">  
-  <img src="https://profile-counter.glitch.me/qasimparekh/count.svg" align="center"/> 
+  <img src="https://komarev.com/ghpvc/?username=echandsome&style=for-the-badge&color=orange" align="center"/> 
 </div>
 <br>
   
