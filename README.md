@@ -19,7 +19,7 @@ I am a **full-stack developer** with **7+ years of experience**, specializing in
 - 😎 One Developer Army 💪💪
 - 🔭 I’m currently working on a [lot of projects](https://github.com/echandsome?tab=repositories) !!
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2026 Goals: $100000
+- 🥅 2026 Goals: $1000000
 - ⚡ Fun fact: I like code and beautiful girl 🤣🤣
 
 
