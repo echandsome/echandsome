@@ -5,7 +5,7 @@
 </h1>
 
 <p >
-🚀 Full-Stack Developer | Web | Mobile Expert | AI
+🚀 Full-Stack Developer | Web | AI Expert
 </p>
 
 
